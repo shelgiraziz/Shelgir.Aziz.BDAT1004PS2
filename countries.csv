@@ -1,0 +1,30 @@
+City,Country,Season,"Temperature
+(C)",Rainfall
+"Mumbai
+Mumbai","India
+India","Winter
+Spring","24.8
+28.4","5.9
+16.2"
+Mumbai,India,Summer,27.9,1549.4
+"Mumbai
+London","India
+United Kingdom","Fall
+Winter","27.6
+4.2","346.0
+207.7"
+London,United Kingdom,Spring,8.3,169.6
+"London
+London","United Kingdom
+United Kingdom","Summer
+Fall","15.7
+10.4","157.0
+218.5"
+Cairo,Egypt,Winter,13.6,16.5
+"Cairo
+Cairo","Egypt
+Egypt","Spring
+Summer","20.7
+20.7","6.5
+0.1"
+Cairo,Egypt,Fall,,4.5
